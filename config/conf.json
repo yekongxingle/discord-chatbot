@@ -1,0 +1,7 @@
+{
+  "chaturl": "https://discord.com/api/v9/channels/这里填channelid/messages?limit=50",
+  "posturl": "https://discord.com//api/v9/channels/这里填channelid/messages",
+  "channel_id": "这里填channelid",
+  "Authorization": "填自己的",
+  "Username": "自己的名字"
+}
